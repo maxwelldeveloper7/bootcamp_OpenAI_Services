@@ -13,7 +13,7 @@
 ![](./img/temperatura0_top1.png)
 ![](./img/temperatura1_top0.png)
 ![](./img/temperatura1_top1.png)
+![](./img/temperatura065_top03.png)
 ![](./img/Aplicando_exemplos.png)
 ![](./img/Aplicando_exemplos1.png)
 ![](./img/Aplicando_exemplos2.png)
-![](./img/temperatura065_top03.png)
